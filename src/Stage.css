@@ -1,0 +1,28 @@
+.stage{
+    position:fixed;
+    background-color: #404853;
+    bottom:51vw;
+    left:20.7vw;
+    display:flex;
+    flex-wrap: wrap;
+    height:90%;
+    flex-direction:column;
+    justify-content: space-around;
+    width:80vw;
+    top:0;
+}
+
+.stageBox{
+    border-style:solid;
+    border-color:red;
+    height:25%;
+    display:block;
+    width:25%;
+    margin-left:auto;
+    margin-right:auto;
+    text-align: center;
+}
+
+img{
+    display:block;
+}

@@ -1,0 +1,17 @@
+.stageBottom{
+    display:flex;
+    width:100%;
+    border-style: solid;
+    border-color: red;
+    border-width: 5px;
+    height: 9%;
+    justify-content: center;
+    position:fixed;
+    top:90%;
+}
+
+.leaveStageButton{
+    margin-top:1%;
+    margin-left:80%;
+}
+

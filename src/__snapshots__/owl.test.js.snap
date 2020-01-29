@@ -1,0 +1,324 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App Component Shows the App component (a container) when rendered 1`] = `
+<main
+  className="App"
+>
+  <div>
+    <div
+      className="outerParticipantContainer"
+    >
+      <div
+        className="participant"
+      >
+        <div
+          className="participantBox"
+        >
+          <img
+            alt="avatar"
+            src="https://robohash.org/itaquevoluptatumrerum.jpg?size=200x200&set=set1"
+          />
+          <div
+            className="avatarSeperator"
+          >
+            <h2>
+              Koren Templeton
+            </h2>
+            <p>
+              onStage
+            </p>
+          </div>
+        </div>
+        <div
+          className="participantBox"
+        >
+          <img
+            alt="avatar"
+            src="https://robohash.org/doloredolorescupiditate.jpg?size=200x200&set=set1"
+          />
+          <div
+            className="avatarSeperator"
+          >
+            <h2>
+              Caty Flucker
+            </h2>
+            <p>
+              inSession
+            </p>
+          </div>
+        </div>
+        <div
+          className="participantBox"
+        >
+          <img
+            alt="avatar"
+            src="https://robohash.org/etexercitationemassumenda.jpg?size=200x200&set=set1"
+          />
+          <div
+            className="avatarSeperator"
+          >
+            <h2>
+              Frank Runciman
+            </h2>
+            <p>
+              inSession
+            </p>
+          </div>
+        </div>
+        <div
+          className="participantBox"
+        >
+          <img
+            alt="avatar"
+            src="https://robohash.org/iustodoloremqueinventore.jpg?size=200x200&set=set1"
+          />
+          <div
+            className="avatarSeperator"
+          >
+            <h2>
+              Ashla Attwool
+            </h2>
+            <p>
+              onStage
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="stage"
+  >
+    <div
+      className="stageBox"
+    >
+      <h2>
+        Koren Templeton
+      </h2>
+      <img
+        alt="avatar"
+        src="https://robohash.org/itaquevoluptatumrerum.jpg?size=200x200&set=set1"
+      />
+    </div>
+    <div
+      className="stageBox"
+    >
+      <h2>
+        Ashla Attwool
+      </h2>
+      <img
+        alt="avatar"
+        src="https://robohash.org/iustodoloremqueinventore.jpg?size=200x200&set=set1"
+      />
+    </div>
+  </div>
+  <div
+    className="stageBottom"
+  >
+    <button
+      className="leaveStageButton"
+      type="button"
+    >
+      Leave Stage
+    </button>
+  </div>
+  <div
+    className="menu"
+  >
+    <button
+      onClick={[Function]}
+      type="button"
+    >
+      Chat
+    </button>
+    <button
+      onClick={[Function]}
+      type="button"
+    >
+      Participants
+    </button>
+    <button
+      type="button"
+    >
+      Settings
+    </button>
+    <button
+      type="button"
+    >
+      Copy Session Url
+    </button>
+    <button
+      type="button"
+    >
+      See FAQ
+    </button>
+  </div>
+</main>
+`;
+
+exports[`ChatMenu Component Shows the ChatMenu component when rendered 1`] = `
+<div
+  className="menu"
+>
+  <button
+    onClick={[Function]}
+    type="button"
+  >
+    Chat
+  </button>
+  <button
+    onClick={[Function]}
+    type="button"
+  >
+    Participants
+  </button>
+  <button
+    type="button"
+  >
+    Settings
+  </button>
+  <button
+    type="button"
+  >
+    Copy Session Url
+  </button>
+  <button
+    type="button"
+  >
+    See FAQ
+  </button>
+</div>
+`;
+
+exports[`Participant Component Shows the Participant component when rendered 1`] = `
+<div>
+  <div
+    className="outerParticipantContainer"
+  >
+    <div
+      className="participant"
+    >
+      <div
+        className="participantBox"
+      >
+        <img
+          alt="avatar"
+          src="https://robohash.org/itaquevoluptatumrerum.jpg?size=200x200&set=set1"
+        />
+        <div
+          className="avatarSeperator"
+        >
+          <h2>
+            Koren Templeton
+          </h2>
+          <p>
+            onStage
+          </p>
+        </div>
+      </div>
+      <div
+        className="participantBox"
+      >
+        <img
+          alt="avatar"
+          src="https://robohash.org/doloredolorescupiditate.jpg?size=200x200&set=set1"
+        />
+        <div
+          className="avatarSeperator"
+        >
+          <h2>
+            Caty Flucker
+          </h2>
+          <p>
+            inSession
+          </p>
+        </div>
+      </div>
+      <div
+        className="participantBox"
+      >
+        <img
+          alt="avatar"
+          src="https://robohash.org/etexercitationemassumenda.jpg?size=200x200&set=set1"
+        />
+        <div
+          className="avatarSeperator"
+        >
+          <h2>
+            Frank Runciman
+          </h2>
+          <p>
+            inSession
+          </p>
+        </div>
+      </div>
+      <div
+        className="participantBox"
+      >
+        <img
+          alt="avatar"
+          src="https://robohash.org/iustodoloremqueinventore.jpg?size=200x200&set=set1"
+        />
+        <div
+          className="avatarSeperator"
+        >
+          <h2>
+            Ashla Attwool
+          </h2>
+          <p>
+            onStage
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Stage Component Shows the Stage component when rendered 1`] = `
+<div
+  className="stage"
+>
+  <div
+    className="stageBox"
+    key="1"
+  >
+    <h2
+      key="1"
+    >
+      Koren Templeton
+    </h2>
+    <img
+      alt="avatar"
+      src="https://robohash.org/itaquevoluptatumrerum.jpg?size=200x200&set=set1"
+    />
+  </div>
+  <div
+    className="stageBox"
+    key="5"
+  >
+    <h2
+      key="5"
+    >
+      Ashla Attwool
+    </h2>
+    <img
+      alt="avatar"
+      src="https://robohash.org/iustodoloremqueinventore.jpg?size=200x200&set=set1"
+    />
+  </div>
+</div>
+`;
+
+exports[`StageBottom Component Shows the StageBottom component when rendered 1`] = `
+<div
+  className="stageBottom"
+>
+  <button
+    className="leaveStageButton"
+    type="button"
+  >
+    Leave Stage
+  </button>
+</div>
+`;
